@@ -299,6 +299,8 @@ main {
 .team__card {
 	border: 1px solid white;
 	color: white;
+	padding: 10px;
+	
 }
 
 
